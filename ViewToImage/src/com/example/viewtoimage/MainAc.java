@@ -1,5 +1,5 @@
-/*package com.example.viewtoimage;
-
+package com.example.viewtoimage;
+/*
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
